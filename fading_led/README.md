@@ -1,4 +1,4 @@
 # Fading LED
 
 ## Layout
-![Layout](./layout.jpeg)
+![Layout](https://github.com/NatalieBeee/ArduinoWithMaggie/blob/master/fading_led/layout.jpg)
