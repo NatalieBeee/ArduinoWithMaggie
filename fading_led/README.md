@@ -1,4 +1,4 @@
 # Fading LED
 
 ## Layout
-![Layout](layout.jpeg)
+![Layout](./layout.jpeg)
